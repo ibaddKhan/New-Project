@@ -8,18 +8,35 @@ Welcome to MeetDay1Gang, an open source app designed to help people find their d
 - **Day 1 Friends:** Connect with people who are going through a similar experience.
 - **Easy-to-use Interface:** Simple and intuitive design for a seamless experience.
 
+
 ## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This program has no pre-requisites
 
 ### Installation
 
-To get started with MeetDay1Gang, follow these steps:
+1. Clone the repo
 
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/meetday1gang.git
-cd meetday1gang
+```sh
+git clone https://github.com/ibaddKhan/meetday1gang.git
 ```
+
+2. Open The index.HTML file
+
+3. Have fun!
+
+## Usage
+
+Coming Soon!
+
+## Roadmap
+
+See the [open issues](https://github.com/ibaddKhan/meetday1gang/issues) for a list of proposed features (and known issues).
 
 
 ## Contributing
@@ -38,3 +55,10 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+
+## Authors
+
+- **Ibad Khan** - _Comp Sci Student_ - [Ibad Khan](https://github.com/ibaddkhan/) - _All Work_
+
+
