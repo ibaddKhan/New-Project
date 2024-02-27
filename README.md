@@ -4,7 +4,7 @@ Welcome to MeetDay1Gang, an open source app designed to help people find their d
 
 ## Features
 
-- **Location-based Matching:** Find others in the same hospital same day u were born.
+- **Location-based Matching:** Find others who were born in the same hospital same day u were born.
 - **Day 1 Friends:** Connect with people who are going through a similar experience.
 - **Easy-to-use Interface:** Simple and intuitive design for a seamless experience.
 
